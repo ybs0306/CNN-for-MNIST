@@ -1,0 +1,8 @@
+/training/
+/.vscode
+
+#docx暫存檔
+~$*
+
+#for mac
+.DS_Store
